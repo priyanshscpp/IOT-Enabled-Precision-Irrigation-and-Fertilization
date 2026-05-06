@@ -174,7 +174,7 @@ export default function App() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
             <Sprout size={40} color="var(--accent-primary)" />
             <h1 style={{ fontSize: '2rem' }}>  IOT-Enabled Precision Irrigation and Fertilization
- </h1>
+            </h1>
           </div>
           <p style={{ color: 'var(--text-secondary)', textAlign: 'center', marginBottom: '3rem' }}>
             Smart agricultural predictions and real-time dashboard analytics.
@@ -478,8 +478,9 @@ export default function App() {
       <aside className="sidebar">
         <div className="logo">
           <Sprout size={32} />
-          <span> IOT-Enabled Precision Irrigation and Fertilization
- </span>
+          <span> FormEdge Technology : Smart Fields. Better Yield.
+          </span>
+
         </div>
 
         <ul className="nav-menu">
